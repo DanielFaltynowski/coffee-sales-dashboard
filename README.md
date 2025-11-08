@@ -4,6 +4,8 @@
 
 The dataset provided contains information on coffee sales, including product, customer, and order data. The objective of the project was to create an interactive dashboard in **Microsoft Excel**, enabling users to intuitively explore sales data using available filters and visualization tools.  
 
+![](screenshots/05_dashboard.png)  
+
 # 📒 Project Development Report  
 
 ### Data Sources  
